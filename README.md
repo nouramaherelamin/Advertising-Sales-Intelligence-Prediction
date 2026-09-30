@@ -193,15 +193,10 @@ Interactive Streamlit Dashboard
 - Organized project structure
 - GitHub-ready implementation
 
-## 👩‍💻 Author
-
+# 👩‍💻 Author
+<div align="center">
+  
 **Noura Maher Elamin**
 
-Data Analyst | Machine Learning Enthusiast
-
-- GitHub: https://github.com/nouramaherelamin
-- LinkedIn: https://www.linkedin.com/in/nouramaherelamin/
-
-## 📄 License
-
-This project is created for educational, portfolio, and data analytics purposes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nouramaherelamin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nouramaherelamin)
