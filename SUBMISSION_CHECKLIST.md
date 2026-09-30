@@ -1,0 +1,12 @@
+# Submission Checklist
+- [x] Streamlit app + assets
+- [x] Raw + processed data
+- [x] Trained model
+- [x] Jupyter notebook
+- [x] Evaluation report
+- [x] Source code
+- [x] Tests
+- [x] Streamlit config
+- [x] requirements.txt
+- [x] README.md
+- [x] .gitignore
